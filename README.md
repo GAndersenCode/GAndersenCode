@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+[![](./assets/envelope-icon.png)](mailto:geir@geirandersen.com)
+
 I just started figuring this GitHub thing in more details.
 I will be adding stuff to this overview in the very near future 👍
 
